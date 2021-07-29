@@ -321,6 +321,14 @@ section {
     animation-fill-mode: forwards;
 }
 
+.air {
+    position: relative;
+    height: 1200px;
+    width: 100%;
+    background-color: darkgrey;
+    z-index: 10;
+}
+
 .photos {
     height: 60vh;
     width: 100%;
